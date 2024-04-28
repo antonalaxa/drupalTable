@@ -1,5 +1,5 @@
 # drupalTable
-How to sort HTML table by default in desc mode
+How to sort HTML table by default in desc mode in Drupal 10
 
 Code In Controller (to Drupal 10)
 To sort by default on click by desc in table header use 'initial_click_sort' => 'desc'
