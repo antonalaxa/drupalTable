@@ -9,3 +9,5 @@ To sort by default on click by desc in table header use 'initial_click_sort' => 
       array('data' => t('Time'), 'field' => 'changed', 'initial_click_sort' => 'desc'),
       array('data' => t('Status'), 'field' => 'status'),
     );
+
+I use it on my drupal 10 sites like https://rutxt.ru
